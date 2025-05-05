@@ -64,7 +64,7 @@ Clone o repositório:
 bash
 Copy
 Edit
-git clone https://github.com/Robson-SA/calculadora-IMC.git
+git clone https://github.com/Robson-SA/CalculadoraIMC.git
 Abra o projeto no Android Studio.
 
 Conecte um dispositivo físico ou use um emulador.
