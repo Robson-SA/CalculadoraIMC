@@ -41,7 +41,7 @@ Tela com dados preenchidos e resultado exibido:
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Kotlin
+- Java
 
 - Android Studio
 
